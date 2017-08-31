@@ -5,3 +5,9 @@
 
 ### D1: Javascript Drum Kit
 
+### D2: CSS + JS Clock
+
+### D3: Playing with CSS Variables and JS
+
+### D4: Array Cardio Day 1
+
